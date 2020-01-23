@@ -1,0 +1,15 @@
+#mainFont {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+body {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}    
+
+
+
+.jumbotron {
+    background-image: url("../photos/butterfly.jpg");
+
+    background-size: cover; 
+    color: green;    
+}
